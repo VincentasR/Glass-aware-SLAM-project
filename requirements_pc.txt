@@ -1,0 +1,6 @@
+numpy
+opencv-python
+ultralytics
+rclpy
+tf2_ros
+tf-transformations
