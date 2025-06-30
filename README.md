@@ -74,7 +74,7 @@ To get glass detection csv file just close the glass_aware_slam.py
 ## Postprocessing
 
 To make a new map with glass obstacles marked as proper walls, first run the filter.py and then draw_filtered_lines.py. For these to work without any tinkering it is assumed that you have saved your map as "my_map" and that the files "my_map.yaml", "my_map.pgm" and "glass_detections.csv" are in the postprocessing folder.
-
+I pasted the results of one of my experimental runs, just remove the "23_" part of the names of the files and launch both scripts in a way that was described above to see how it works.
 That is it :)
 
 
